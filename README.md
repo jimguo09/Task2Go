@@ -1,4 +1,4 @@
-# Task2Go: a Simple React Native ask Manager App
+# Task2Go: a Simple React Native Task Manager App
 
 ## Overview
 
